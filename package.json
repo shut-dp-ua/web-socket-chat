@@ -1,0 +1,16 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.26",
+    "ws": "^2.3.1"
+  }
+}
